@@ -1,2 +1,10 @@
 # praktikum-web-nilai-siswa
-Sistem Informasi Nilai Siswa — Tugas Praktikum Pemrograman Web [Anggi Julia Puspitasari/STMIK ELRAHMA YOGYAKARTA] 2025/2026
+
+| Keterangan | Isi |
+|---|---|
+| **Nama** | [Anggi Julia Puspitasari] |
+| **NIM** | [11240576] |
+| **Prodi** | [Sistem Informasi] |
+| **Mata Kuliah** | Pemrograman Web |
+| **Dosen Pengampu** | [Asih Winantu, S.Kom., M.Cs.] |
+| **Tahun Ajaran** | 2025/2026 |
